@@ -1,15 +1,16 @@
 # Apresentação de Slides com Controle de Voz
-Descrição
+
+## Descrição
 Este projeto é uma aplicação de apresentação de slides controlada por voz, desenvolvida em Python 
 com a biblioteca Tkinter e a biblioteca Speech Recognition.
 Permite ao usuário abrir um arquivo PDF e navegar pelos slides usando comandos de voz.
 
-Funcionalidades:
-Abrir arquivos PDF como slides.
-Navegar entre os slides com comandos de voz.
-Ajustar o zoom dos slides.
-Alternar entre o modo tela cheia e o tamanho normal da janela.
-Fechar a aplicação com um comando de voz.
+## Funcionalidades:
+- Abrir arquivos PDF como slides.
+- Navegar entre os slides com comandos de voz.
+- Ajustar o zoom dos slides.
+- Alternar entre o modo tela cheia e o tamanho normal da janela.
+- Fechar a aplicação com um comando de voz.
 
 Requisitos para executar esta aplicação, você precisará de Python instalado em sua máquina
 e as seguintes bibliotecas:
