@@ -13,7 +13,7 @@ Permite ao usuário abrir um arquivo PDF e navegar pelos slides usando comandos 
 - Fechar a aplicação com um comando de voz.
 
 ## Requisitos para executar esta aplicação, você precisará de Python instalado em sua máquina
-e as seguintes bibliotecas:
+E as seguintes bibliotecas:
 - Tkinter (geralmente vem instalado com Python)
 - pdf2image
 - Pillow
