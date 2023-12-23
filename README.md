@@ -5,6 +5,10 @@ Este projeto é uma aplicação de apresentação de slides controlada por voz, 
 com a biblioteca Tkinter e a biblioteca Speech Recognition.
 Permite ao usuário abrir um arquivo PDF e navegar pelos slides usando comandos de voz.
 
+## Pré-requisito
+Antes de usar a aplicação, é necessário converter sua apresentação em formato PPTX para PDF, pois a aplicação
+só suporta a leitura de arquivos PDF.
+
 ## Funcionalidades:
 - Abrir arquivos PDF como slides.
 - Navegar entre os slides com comandos de voz.
